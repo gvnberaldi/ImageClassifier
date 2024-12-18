@@ -7,7 +7,7 @@ This project explores the implementation and experimentation of various deep lea
 
 The goal is to analyze and improve the models through hyperparameter tuning, data augmentation, and regularization techniques.
 
-For a detailed explanation of the methodologies, preprocessing steps, model architecture, and training process, please refer to the [Report](docs/report.pdf) included in this repository.
+For a detailed explanation of the methodologies, preprocessing steps, model architecture, and training process, please refer to the [report](docs/report.pdf) included in this repository.
 
 ## Table of Contents
 1. [Introduction](#introduction)
