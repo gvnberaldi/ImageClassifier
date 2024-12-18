@@ -72,11 +72,11 @@ Implemented using:
 - Conducted using [Weights and Biases (WandB)](https://wandb.ai/).
 - Optimized parameters like learning rate, dropout, batch size, and patch size.
   
-### **CNN Tuning Metrics**  
-![Tuning Metrics](cnn_tuning.jpg)
+### **CNN Tuning Metrics**
+<img src="docs/images/cnn_tuning.jpg" alt="System Architecture" width="700">
 
 ### **ViT Tuning Metrics**  
-![Tuning Metrics](vit_tuning.jpg)
+<img src="docs/images/vit_tuning.jpg" alt="System Architecture" width="700">
 
 ### Training and Validation
 - **ResNet18**: Trained for 60 epochs.
